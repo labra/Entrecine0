@@ -2,3 +2,4 @@ Cambiado desde LineaComandos - Notepad
 Cambiado desde Github
 Mezclando Github y Notepad
 Mezclado con Eclipse
+Desde Github provocando conflicto con Eclipse
