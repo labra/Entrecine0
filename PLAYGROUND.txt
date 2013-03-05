@@ -1,5 +1,4 @@
-This is just a file to play with Version control...
-New change
-New develop
-Editado diréctamente desde Github
-Nueva prueba
+Cambiado desde LineaComandos - Notepad
+Cambiado desde Github
+Mezclando Github y Notepad
+Mezclado con Eclipse
